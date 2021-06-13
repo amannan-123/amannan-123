@@ -49,6 +49,8 @@ Twitter:
 <details>
 <summary> 📊 Github Analytics</summary>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=amannan-123&style=flat-square" alt="Abdul Mannan" /> </p>
+  
 <p align="center">
 <a href="#">
 <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=amannan-123&show_icons=true&theme=tokyonight" />
