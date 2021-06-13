@@ -51,8 +51,8 @@ Twitter:
 
 <p align="center">
 <a href="#">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amannan-123&show_icons=true&theme=tokyonight" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amannan-123&layout=compact&theme=tokyonight" />
+<img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=amannan-123&show_icons=true&theme=tokyonight" />
+<img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amannan-123&layout=compact&theme=tokyonight" />
 </a>
 <img height="300em" width="90%" src="http://github-readme-streak-stats.herokuapp.com?user=amannan-123&theme=tokyonight" />
 </p>
