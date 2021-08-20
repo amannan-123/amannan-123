@@ -4,7 +4,7 @@
   <img src="https://www.elegantthemes.com/blog/wp-content/uploads/2018/04/Best-Code-and-Text-Editors.png" width=200>
   <br><br>
   <samp>
-    I'm Abdul Mannan currently a 4th semester CS student at <a href="http://https://www.uet.edu.pk/">UET</a> 🏫 and aspiring software developer 💻. Interested in desktop apps development and currently learning Electron. I have a love/hate relationship with Programming. 🥺
+    I'm Abdul Mannan, currently BSCS student at <a href="http://https://www.uet.edu.pk/">UET</a> 🏫 and aspiring software developer 💻. Interested in desktop apps development and currently learning Electron. I have a love/hate relationship with Programming. 🥺
   </samp>
 </p>
 
