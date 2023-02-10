@@ -42,7 +42,7 @@ Twitter:
 <details>
 <summary> 💹 Contribution Graph</summary>
   
-[![Abdul Mannan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amannan-123&theme=react-dark)](https://github.com/amannan-123)
+[![Abdul Mannan's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=amannan-123&theme=react-dark)](https://github.com/amannan-123)
 
 </details>
 
