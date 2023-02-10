@@ -4,14 +4,14 @@
   <img src="https://www.elegantthemes.com/blog/wp-content/uploads/2018/04/Best-Code-and-Text-Editors.png" width=200>
   <br><br>
   <samp>
-    I'm Abdul Mannan, currently BSCS student at <a href="http://https://www.uet.edu.pk/">UET</a> 🏫 and aspiring software developer 💻. Interested in desktop apps development and currently learning Electron. I have a love/hate relationship with Programming. 🥺
+    I'm Abdul Mannan, currently BSCS student at <a href="http://https://www.uet.edu.pk/">UET</a> 🏫 and aspiring software developer 💻. Interested in desktop and web apps development. I have a love/hate relationship with Programming. 🥺
   </samp>
 </p>
 
 ## Expertise And Interests 🖥️
 
-- 🔭 I’m currently working on C#, VB and JS
-- 🌱 I’m currently learning Electron
+- 🔭 I’m currently working on .NET and MERN
+- 🌱 I’m currently learning different Web Technologies
 
 ### Tools and Languages 🚀
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width=60> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width=60> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width=60> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width=60> | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg" width=60> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width=60> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width=60> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width=60> | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width=60> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width=60> |
