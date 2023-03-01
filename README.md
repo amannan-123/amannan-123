@@ -33,10 +33,6 @@ LinkedIn:
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=1b6ee9&label=Follow%20%40amannan-123&style=for-the-badge)](https://www.linkedin.com/in/amannan-123)
 <br>
 
-Twitter:
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/mannang420?color=1b6ee9&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmannang420&screen_name=mannang420)
-
 ---
 
 <details>
