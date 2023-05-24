@@ -38,7 +38,7 @@ LinkedIn:
 <details>
 <summary> 💹 Contribution Graph</summary>
   
-[![Abdul Mannan's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=amannan-123&theme=react-dark)](https://github.com/amannan-123)
+[![Abdul Mannan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amannan-123&theme=react-dark)](https://github.com/amannan-123)
 
 </details>
 
@@ -46,13 +46,16 @@ LinkedIn:
 <summary> 📊 Github Analytics</summary>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=amannan-123&style=flat-square" alt="Abdul Mannan" /> </p>
-  
-<p align="center">
-<a href="#">
-<img height="180em" width="45%" src="http://github-stats-readme-chi.vercel.app/api?username=amannan-123&show_icons=true&theme=tokyonight" />
-<img height="180em" width="45%" src="http://github-stats-readme-chi.vercel.app/api/top-langs/?username=amannan-123&layout=compact&theme=tokyonight" />
-</a>
-<img height="300em" width="90%" src="http://github-readme-streak-stats.herokuapp.com?user=amannan-123&theme=tokyonight" />
-</p>
+<table style="border:1px solid black;margin-left:auto;margin-right:auto;">
+ <tr>
+    <td >
+	  <img src="http://github-stats-readme-chi.vercel.app/api?username=amannan-123&show_icons=true&theme=tokyonight" height="300px" />
+	  </td>
+    <td >
+	  <img src="http://github-stats-readme-chi.vercel.app/api/top-langs/?username=amannan-123&layout=compact&theme=tokyonight" height="300px"/>
+	  </td>
+</tr>
+</table>
+<p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=amannan-123&theme=tokyonight" width="500px"/> </p>
   
 </details>
